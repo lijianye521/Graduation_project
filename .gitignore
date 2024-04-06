@@ -20,11 +20,14 @@ coverage
 /xlnet_cased_L-12_H-768_A-12
 /processed_data
 /学长参考
-
+/dataset
+/data_开发者阈值10_词频阈值10
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
+*.pth
+*.csv
 *.suo
 *.ntvs*
 *.njsproj
