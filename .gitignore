@@ -21,6 +21,7 @@ coverage
 /processed_data
 /学长参考
 /dataset
+/model
 /data_开发者阈值10_词频阈值10
 # Editor directories and files
 .vscode/*
